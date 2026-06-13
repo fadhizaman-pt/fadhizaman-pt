@@ -2,7 +2,7 @@
 
 Full Stack Developer who enjoys turning ideas into well-built web products.
 
-[Portfolio](https://fadhizamanpt.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fadhizamanpt/) · [Email](mailto:fadhizamantsy@gmail.com)
+[Portfolio](https://fadhizamanpt.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fadhizamanpt/) · [Email](mailto:fadhizamanptofficial@gmail.com)
 
 ---
 
