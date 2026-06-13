@@ -47,7 +47,7 @@ Full Stack Developer who enjoys turning ideas into well-built web products.
 
 Many production and client projects are maintained in private repositories due to confidentiality and security requirements.
 
-For detailed case studies, live projects, and technical breakdowns, visit
+To explore my project overviews, live demos, and technical summaries, visit
 my [portfolio](https://fadhizamanpt.vercel.app/).
 
 If you'd like to discuss a project in detail, feel free to reach out.
