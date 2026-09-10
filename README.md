@@ -1,10 +1,9 @@
 # Fadhi Zaman P T
 
 Hey, I'm Fadhi, a First Year CSE student and MERN focused Full Stack Developer.
+Currently sharpening my problem solving skills through DSA and [LeetCode](https://leetcode.com/fadhizamanpt/).
 
 [Portfolio](https://fadhizamanpt.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fadhizamanpt/) · [Email](mailto:fadhizamanptofficial@gmail.com)
-
----
 
 ### Currently Working On
 
@@ -22,8 +21,6 @@ Hey, I'm Fadhi, a First Year CSE student and MERN focused Full Stack Developer.
     </td>
   </tr>
 </table>
-
----
 
 ### Tech Stack
 
