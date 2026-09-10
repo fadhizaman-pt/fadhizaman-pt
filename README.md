@@ -1,6 +1,6 @@
 # Fadhi Zaman P T
 
-Full Stack Developer who enjoys turning ideas into well-built web products.
+Full Stack Developer - MERN.
 
 [Portfolio](https://fadhizamanpt.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fadhizamanpt/) · [Email](mailto:fadhizamanptofficial@gmail.com)
 
