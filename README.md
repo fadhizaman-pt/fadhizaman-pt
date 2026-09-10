@@ -12,14 +12,15 @@ Currently sharpening my problem solving skills through DSA.
 
 <table width="100%">
   <tr>
-    <td width="50%" align="left" valign="top">
-      <br>
+    <td width="25%" align="center" valign="middle">
       <b>Shelfy</b>
-      <br><br>
+    </td>
+    <td width="75%" align="left" valign="top">
+      <br>
       <p>Online library management system to manage books, members, and borrowings,
       with AI-powered search and summaries.</p>
-      <a href="https://shelfylibrary.vercel.app/">Visit Website</a> ·
-      <a href="https://fadhizamanpt.vercel.app/projects/shelfy">Overview</a>
+      <a href="https://shelfylibrary.vercel.app/">View</a> ·
+      <a href="https://fadhizamanpt.vercel.app/projects/shelfy">Technical Breakdown</a>
       <br><br>
     </td>
   </tr>
