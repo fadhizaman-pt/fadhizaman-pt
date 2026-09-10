@@ -39,7 +39,7 @@ Full Stack Developer - MERN.
       <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
     </td>
     <td valign="top">
-      <b>Framework</b><br><br>
+      <b>Framework & Libraries</b><br><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
@@ -51,8 +51,8 @@ Full Stack Developer - MERN.
     </td>
     <td valign="top">
       <b>Database</b><br><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     </td>
     <td valign="top">
@@ -61,15 +61,14 @@ Full Stack Developer - MERN.
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
     <td valign="top">
-      <b>DevOps</b><br><br>
+      <b>DevOps & Deployment</b><br><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     </td>
     <td valign="top">
       <b>Testing & API</b><br><br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
 </table>
-
