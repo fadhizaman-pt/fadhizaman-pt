@@ -8,24 +8,6 @@ Currently sharpening my problem solving skills through DSA.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadhizamanptofficial@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/fadhizamanpt/)
 
-### Currently Working On
-
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <b>Shelfy</b>
-    </td>
-    <td width="75%" align="left" valign="top">
-      <br>
-      <p>Online library management system to manage books, members, and borrowings,
-      with AI-powered search and summaries.</p>
-      <a href="https://shelfylibrary.vercel.app/">View</a> ·
-      <a href="https://fadhizamanpt.vercel.app/projects/shelfy">Technical Breakdown</a>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
 ### Tech Stack
 
 <table width="100%">
