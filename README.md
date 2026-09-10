@@ -67,7 +67,7 @@ Currently sharpening my problem solving skills through DSA.
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
     </td>
     <td valign="top">
-      <b>Testing & API</b><br><br>
+      <b>Testing & API Tools</b><br><br>
       <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
