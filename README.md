@@ -1,6 +1,6 @@
 # Fadhi Zaman P T
 
-Full Stack Developer - MERN.
+Hey, I'm Fadhi, a First Year CSE student and MERN focused Full Stack Developer.
 
 [Portfolio](https://fadhizamanpt.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/fadhizamanpt/) · [Email](mailto:fadhizamanptofficial@gmail.com)
 
