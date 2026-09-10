@@ -73,6 +73,3 @@ Full Stack Developer - MERN.
   </tr>
 </table>
 
----
-
-**Status** — Open to full-time roles and freelance work.
