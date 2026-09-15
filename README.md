@@ -1,7 +1,7 @@
 # Fadhi Zaman P T
 
 
-I'm a Full Stack Developer focused on the MERN stack, currently deepening my knowledge in LLMs, RAG, and AI agents.
+**I'm a Full Stack Developer focused on the MERN stack, currently deepening my knowledge in LLMs, RAG, and AI agents.**
 
 <p>
   <a href="https://www.linkedin.com/in/fadhizamanpt/">LinkedIn</a>
@@ -9,4 +9,4 @@ I'm a Full Stack Developer focused on the MERN stack, currently deepening my kno
   <a href="mailto:fadhizamanptofficial@gmail.com">Email</a>
 </p>
 
-I could list the stack. But I'd rather let the work speak for me.
+**Stack lists are boring. Check the repos instead.**
