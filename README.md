@@ -1,4 +1,4 @@
-# fadhizaman-pt-# Fadhi Zaman P T
+# Fadhi Zaman P T
 
 <p>
   <a href="https://www.linkedin.com/in/fadhizamanpt/">LinkedIn</a>
